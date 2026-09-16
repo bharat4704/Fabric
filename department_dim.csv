@@ -1,0 +1,6 @@
+department,department_name,building
+CARDIO,Cardiology,Bldg A
+ORTHO,Orthopedics,Bldg B
+NEURO,Neurology,Bldg C
+PEDIA,Pediatrics,Bldg D
+UNKNOWN,Unassigned,N/A
