@@ -1,0 +1,417 @@
+[
+  {
+    "patient_id": "P500",
+    "insurance": {
+      "provider": "UnitedHealth",
+      "policy_no": "POL743550"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P501",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL318054"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P502",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL765226"
+    },
+    "procedures": [
+      "MRI",
+      "CONSULT",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P503",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL220956"
+    },
+    "procedures": [
+      "BLOOD_PANEL",
+      "CONSULT",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P504",
+    "insurance": {
+      "provider": "UnitedHealth",
+      "policy_no": "POL190056"
+    },
+    "procedures": [
+      "X-RAY",
+      "ECG",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P505",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL969117"
+    },
+    "procedures": [
+      "CONSULT",
+      "X-RAY"
+    ]
+  },
+  {
+    "patient_id": "P506",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL653918"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P507",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL823588"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "ECG"
+    ]
+  },
+  {
+    "patient_id": "P508",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL830015"
+    },
+    "procedures": [
+      "MRI",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P509",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL472974"
+    },
+    "procedures": [
+      "X-RAY",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P510",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL743016"
+    },
+    "procedures": [
+      "X-RAY",
+      "CONSULT"
+    ]
+  },
+  {
+    "patient_id": "P511",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL309629"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "BLOOD_PANEL",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P512",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL928494"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P513",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL371764"
+    },
+    "procedures": [
+      "X-RAY",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P514",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL947842"
+    },
+    "procedures": [
+      "CONSULT",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P515",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL331171"
+    },
+    "procedures": [
+      "ECG",
+      "X-RAY"
+    ]
+  },
+  {
+    "patient_id": "P516",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL454143"
+    },
+    "procedures": [
+      "X-RAY",
+      "BLOOD_PANEL",
+      "ECG"
+    ]
+  },
+  {
+    "patient_id": "P517",
+    "insurance": {
+      "provider": "UnitedHealth",
+      "policy_no": "POL938487"
+    },
+    "procedures": [
+      "CONSULT",
+      "ECG",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P518",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL601253"
+    },
+    "procedures": [
+      "X-RAY",
+      "BLOOD_PANEL",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P519",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL585659"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P520",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL860006"
+    },
+    "procedures": [
+      "X-RAY",
+      "CONSULT",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P521",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL719511"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P522",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL741281"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "BLOOD_PANEL",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P523",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL674919"
+    },
+    "procedures": [
+      "X-RAY"
+    ]
+  },
+  {
+    "patient_id": "P524",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL938186"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P525",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL885903"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P526",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL304268"
+    },
+    "procedures": [
+      "X-RAY"
+    ]
+  },
+  {
+    "patient_id": "P527",
+    "insurance": {
+      "provider": "UnitedHealth",
+      "policy_no": "POL323115"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P528",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL352223"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "MRI"
+    ]
+  },
+  {
+    "patient_id": "P529",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL539366"
+    },
+    "procedures": [
+      "X-RAY",
+      "ECG"
+    ]
+  },
+  {
+    "patient_id": "P530",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL794655"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "CONSULT"
+    ]
+  },
+  {
+    "patient_id": "P531",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL237115"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "X-RAY",
+      "ECG"
+    ]
+  },
+  {
+    "patient_id": "P532",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL738115"
+    },
+    "procedures": [
+      "ECG",
+      "X-RAY",
+      "PHYSIOTHERAPY"
+    ]
+  },
+  {
+    "patient_id": "P533",
+    "insurance": {
+      "provider": "Cigna",
+      "policy_no": "POL749174"
+    },
+    "procedures": [
+      "CONSULT"
+    ]
+  },
+  {
+    "patient_id": "P534",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL164755"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P535",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL656506"
+    },
+    "procedures": [
+      "PHYSIOTHERAPY",
+      "BLOOD_PANEL"
+    ]
+  },
+  {
+    "patient_id": "P536",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL159582"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P537",
+    "insurance": {
+      "provider": "BlueShield",
+      "policy_no": "POL390368"
+    },
+    "procedures": [
+      "ECG"
+    ]
+  },
+  {
+    "patient_id": "P538",
+    "insurance": {
+      "provider": "MediCare Plus",
+      "policy_no": "POL574140"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P539",
+    "insurance": {
+      "provider": "Aetna",
+      "policy_no": "POL564779"
+    },
+    "procedures": []
+  },
+  {
+    "patient_id": "P998",
+    "insurance": null,
+    "procedures": [
+      "CONSULT"
+    ]
+  }
+]
